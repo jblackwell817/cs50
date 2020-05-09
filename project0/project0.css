@@ -1,0 +1,26 @@
+/* Fixed sidenav, full height */
+.jumbotron{
+    background-color: #f5c125;
+    color: white;
+    width: 100%;
+  }
+
+.nav{
+    color: #3391f5;
+    border-right: solid;
+    border-color: #f2f5f7;
+    background-color: #fafbfc;
+    width: 100%;
+}
+
+.main-body div{
+    padding-top: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0;
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
